@@ -1,0 +1,4 @@
+{
+    "apiurlHttp": "http://hostname.com:9090/api/v1/",
+    "apiurlCLI": "http://hostname.com:9090/"
+}
